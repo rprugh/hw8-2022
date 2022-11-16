@@ -1,0 +1,222 @@
+{
+    "spirit_oasis": {
+        "link": "https://avatar.fandom.com/wiki/Spirit_Oasis",
+        "title": "Spirit Oasis",
+        "img": "https://static.wikia.nocookie.net/avatar/images/7/7b/Spirit_Oasis_overview.png"
+    },
+    "northern_water": {
+        "title": "Northern Water Tribe",
+        "link": "https://avatar.fandom.com/wiki/Northern_Water_Tribe",
+        "img": "https://static.wikia.nocookie.net/avatar/images/0/01/Modern_Northern_Water_Tribe_capital.png"
+    },
+    "north_pole": {
+        "title": "North Pole",
+        "link": "https://avatar.fandom.com/wiki/North_Pole",
+        "img": "https://static.wikia.nocookie.net/avatar/images/d/d4/North_Pole.png"
+    },
+    "outskirts path": {
+        "title": "Water Tribe Outskirts",
+        "link": "https://avatar.fandom.com/wiki/Water_Tribe",
+        "img": "https://static.wikia.nocookie.net/avatar/images/3/37/Northern_Water_Tribe.png"
+    },
+    "southern_water": {
+        "title": "Southern Water Tribe",
+        "link": "https://avatar.fandom.com/wiki/Southern_Water_Tribe",
+        "img": "https://static.wikia.nocookie.net/avatar/images/4/41/Wolf_Cove.png"
+    },
+    "shipwreck path": {
+        "title": "Shipwreck",
+        "link": "https://avatar.fandom.com/wiki/Shipwreck",
+        "img": "https://static.wikia.nocookie.net/avatar/images/f/f5/Shipwreck.png"
+    },
+    "south_pole": {
+        "title": "South Pole",
+        "link": "https://avatar.fandom.com/wiki/South_Pole",
+        "img": "https://static.wikia.nocookie.net/avatar/images/c/c6/Southern_spirit_portal.png"
+    },
+    "rokus_island": {
+        "title": "Roku's Island",
+        "link": "https://avatar.fandom.com/wiki/Roku%27s_island",
+        "img": "https://static.wikia.nocookie.net/avatar/images/c/c3/Roku%27s_island.png"
+    },
+    "crescent_island": {
+        "title": "Crescent Island",
+        "link": "https://avatar.fandom.com/wiki/Crescent_Island",
+        "img": "https://static.wikia.nocookie.net/avatar/images/6/68/Crescent_Island.png"
+    },
+    "fire_fountain_city": {
+        "title": "Fire Fountain City",
+        "link": "https://avatar.fandom.com/wiki/Fire_Fountain_City",
+        "img": "https://static.wikia.nocookie.net/avatar/images/1/15/Fire_Fountain_City.png"
+    },
+    "black_cliffs": {
+        "title": "Black Cliffs",
+        "link": "https://avatar.fandom.com/wiki/Black_Cliffs",
+        "img": "https://static.wikia.nocookie.net/avatar/images/2/23/Black_Cliffs.png"
+    },
+    "yon_rhas_village": {
+        "title": "Yon Rha's Village",
+        "link": "https://avatar.fandom.com/wiki/Yon_Rha%27s_village",
+        "img": "https://static.wikia.nocookie.net/avatar/images/e/e7/Yon_Rha%27s_village.png"
+    },
+    "capital": {
+        "title": "Fire Nation Capital",
+        "link": "https://avatar.fandom.com/wiki/Fire_Nation_Capital",
+        "img": "https://static.wikia.nocookie.net/avatar/images/b/b5/Capital_crater.png"
+    },
+    "bazaar": {
+        "title": "Fire Nation Bazaar",
+        "link": "https://avatar.fandom.com/wiki/Fire_Nation_bazaar",
+        "img": "https://static.wikia.nocookie.net/avatar/images/5/57/Fire_Nation_bazaar.png"
+    },
+    "jang_hui": {
+        "title": "Jang Hui",
+        "link": "https://avatar.fandom.com/wiki/Jang_Hui",
+        "img": "https://static.wikia.nocookie.net/avatar/images/4/40/Jang_Hui.png"
+    },
+    "shu_jing": {
+        "title": "Shu Jing",
+        "link": "https://avatar.fandom.com/wiki/Shu_Jing",
+        "img": "https://static.wikia.nocookie.net/avatar/images/b/ba/Shu_Jing.png"
+    },
+    "fire_island": {
+        "title": "Fire Islands",
+        "link": "https://avatar.fandom.com/wiki/Fire_Islands",
+        "img": "https://static.wikia.nocookie.net/avatar/images/8/83/Fire_Nation_map.png"
+    },
+    "hamas_village": {
+        "title": "Hama's Village",
+        "link": "https://avatar.fandom.com/wiki/Hama%27s_village",
+        "img": "https://static.wikia.nocookie.net/avatar/images/8/89/Hama%27s_village.png"
+    },
+    "ember_island": {
+        "title": "Ember Island",
+        "link": "https://avatar.fandom.com/wiki/Ember_Island",
+        "img": "https://static.wikia.nocookie.net/avatar/images/4/45/Ember_Island_beach.png"
+    },
+    "boiling_rock": {
+        "title": "Boiling Rock",
+        "link": "https://avatar.fandom.com/wiki/Boiling_Rock",
+        "img": "https://static.wikia.nocookie.net/avatar/images/3/32/Boiling_Rock.png"
+    },
+    "sun_warrior": {
+        "title": "Sun Warrior Ruins",
+        "link": "https://avatar.fandom.com/wiki/Sun_Warriors%27_ancient_city",
+        "img": "https://static.wikia.nocookie.net/avatar/images/3/33/Sun_Warriors%27_ancient_city.png"
+    },
+    "northern": {
+        "title": "Northern Air Temple",
+        "link": "https://avatar.fandom.com/wiki/Northern_Air_Temple",
+        "img": "https://static.wikia.nocookie.net/avatar/images/3/3c/Northern_Air_Temple_in_171_AG.png"
+    },
+    "western path": {
+        "title": "Western Air Temple",
+        "link": "https://avatar.fandom.com/wiki/Western_Air_Temple",
+        "img": "https://static.wikia.nocookie.net/avatar/images/3/37/Western_Air_Temple.png"
+    },
+    "eastern": {
+        "title": "Eastern Air Temple",
+        "link": "https://avatar.fandom.com/wiki/Eastern_Air_Temple",
+        "img": "https://static.wikia.nocookie.net/avatar/images/1/13/Restored_Eastern_Air_Temple.png"
+    },
+    "southern path": {
+        "title": "Southern Air Temple",
+        "link": "https://avatar.fandom.com/wiki/Southern_Air_Temple",
+        "img": "https://static.wikia.nocookie.net/avatar/images/2/23/Restored_Southern_Air_Temple.png"
+    },
+    "patola_mountains": {
+        "title": "Patola Mounatin Range",
+        "link": "https://avatar.fandom.com/wiki/Patola_Mountain_Range",
+        "img": "https://static.wikia.nocookie.net/avatar/images/e/ee/Patola_Mountain_Range.png"
+    },
+    "whaletail_island": {
+        "title": "Whaletail Island",
+        "link": "https://avatar.fandom.com/wiki/Whaletail_Island",
+        "img": "https://static.wikia.nocookie.net/avatar/images/a/a3/Whaletail_Island.png"
+    },
+    "swamp": {
+        "title": "Foggy Bottom Swamp",
+        "link": "https://avatar.fandom.com/wiki/Foggy_Swamp",
+        "img": "https://static.wikia.nocookie.net/avatar/images/6/68/Foggy_Swamp.png"
+    },
+    "library": {
+        "title": "Wan Shi Tong's Library",
+        "link": "https://avatar.fandom.com/wiki/Wan_Shi_Tong%27s_Library",
+        "img": "https://static.wikia.nocookie.net/avatar/images/8/8b/Wan_Shi_Tong%27s_books.png"
+    },
+    "omashu": {
+        "title": "Omashu",
+        "link": "https://avatar.fandom.com/wiki/Omashu",
+        "img": "https://static.wikia.nocookie.net/avatar/images/c/cc/Omashu.png"
+    },
+    "hai_bais_forest": {
+        "title": "Scorched Forest",
+        "link": "https://avatar.fandom.com/wiki/Scorched_forest",
+        "img": "https://static.wikia.nocookie.net/avatar/images/a/a1/Scorched_forest_overview.png"
+    },
+    "great_divide": {
+        "title": "Great Divide",
+        "link": "https://avatar.fandom.com/wiki/Great_Divide",
+        "img": "https://static.wikia.nocookie.net/avatar/images/f/f8/Great_Divide.png"
+    },
+    "serpents_pass": {
+        "title": "Serpent's Pass",
+        "link": "https://avatar.fandom.com/wiki/Serpent%27s_Pass",
+        "img": "https://static.wikia.nocookie.net/avatar/images/f/ff/East_and_West_Lakes.png"
+    },
+    "lake_laogai": {
+        "title": "Lake Laogai",
+        "link": "https://avatar.fandom.com/wiki/Lake_Laogai",
+        "img": "https://static.wikia.nocookie.net/avatar/images/4/4e/Lake_Laogai.png"
+    },
+    "si_wong_desert": {
+        "title": "Si Wong Desert",
+        "link": "https://avatar.fandom.com/wiki/Si_Wong_Desert",
+        "img": "https://static.wikia.nocookie.net/avatar/images/4/46/Si_Wong_Desert.png"
+    },
+    "ba_sing_se": {
+        "title": "Ba Sing Se",
+        "link": "https://avatar.fandom.com/wiki/Ba_Sing_Se",
+        "img": "https://static.wikia.nocookie.net/avatar/images/f/f7/Modern_Ba_Sing_Se.png"
+    },
+    "crystal_catacombs": {
+        "title": "Crystal Catacombs",
+        "link": "https://avatar.fandom.com/wiki/Crystal_Catacombs",
+        "img": "https://static.wikia.nocookie.net/avatar/images/c/c2/Crystal_Catacombs.png"
+    },
+    "provinces": {
+        "title": "Earth Kingdom Territory",
+        "link": "https://avatar.fandom.com/wiki/Earth_Kingdom",
+        "img": "https://static.wikia.nocookie.net/avatar/images/6/6f/Ba_Sing_Se.png"
+    },
+    "abbey": {
+        "title": "Abbey",
+        "link": "https://avatar.fandom.com/wiki/Abbey",
+        "img": "https://static.wikia.nocookie.net/avatar/images/9/93/Abbey.png"
+    },
+    "wulong_forest": {
+        "title": "Wulong Forest",
+        "link": "https://avatar.fandom.com/wiki/Wulong_Forest",
+        "img": "https://static.wikia.nocookie.net/avatar/images/a/a2/Wulong.png"
+    },
+    "mt_makapu": {
+        "title": "Mt. Makapu",
+        "link": "https://avatar.fandom.com/wiki/Mt._Makapu",
+        "img": "https://static.wikia.nocookie.net/avatar/images/d/d4/Mt_Makapu.png"
+    },
+    "taku_ruins": {
+        "title": "Ruins of Taku",
+        "link": "https://avatar.fandom.com/wiki/Taku",
+        "img": "https://static.wikia.nocookie.net/avatar/images/7/73/Taku.png"
+    },
+    "kyoshi_island": {
+        "title": "Kyoshi Island",
+        "link": "https://avatar.fandom.com/wiki/Kyoshi_Island",
+        "img": "https://static.wikia.nocookie.net/avatar/images/e/e3/Kyoshi_Island.png"
+    },
+    "unknown path": {
+        "title": "Earth Kingdom Territory",
+        "link": "https://avatar.fandom.com/wiki/Earth_Kingdom",
+        "img": "https://static.wikia.nocookie.net/avatar/images/6/6f/Ba_Sing_Se.png"
+    }
+}

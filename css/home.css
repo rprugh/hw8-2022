@@ -1,0 +1,14 @@
+#intro {
+    padding: 40px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/avatar_img/homeBanner.png");
+    background-attachment: fixed;
+}
+
+#map {
+    text-align: center;
+    padding: 30px;
+}
+
+#map > svg {
+    border-radius: 20px;
+}
