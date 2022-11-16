@@ -38,7 +38,7 @@ function colorMap() {
 
 function makeToolTips() {
     // TODO: Implement this function
-    d3.json('/js/data.json')
+    d3.json('data.json')
     .then(function(data) {
         console.log(data);
         for (key in data) {
