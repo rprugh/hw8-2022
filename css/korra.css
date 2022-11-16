@@ -1,4 +1,4 @@
 #intro {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/korra_img/banner.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../korra_img/banner.jpg");
     background-attachment: fixed;
 }
