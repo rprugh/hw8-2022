@@ -29,7 +29,7 @@ a:hover, a *:hover {
     background-color: #ceceb4;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 100px;
+    padding: 50px;
 }
 
 #intro > p, #intro > h1 {
@@ -41,18 +41,20 @@ a:hover, a *:hover {
 
 /* Nav edits */
 header {
-    position: sticky;
     top: 0;
     width: 100%;
     background-color: black;
     display: grid;
-    grid-template-columns: 5fr 5fr;
+    justify-items: center;
+    grid-template-columns: 1fr;
     padding: 15px;
     box-sizing: border-box;
 }
 
 nav {
-    display: grid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin: auto 0 auto 0;
     grid-template-columns: auto auto auto;
     list-style: none;
@@ -80,7 +82,7 @@ nav a.thisPage {
 /* Container Grid */
 .container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 1fr;
     width: 100%;
 }
 
@@ -111,6 +113,7 @@ a.skip {
     -webkit-transition: top 1s ease-out;
     transition: top 1s ease-out;
     z-index: 1;
+    margin-left: 5px;
 }
 
 a.skip:focus {
@@ -178,7 +181,7 @@ a.skip:focus {
 
 #whereToWatch img {
     width: 200px;
-    margin: 0 50px 50px 0;
+    margin: 0 25px 50px 25px;
     border-radius: 20px;
 }
 /* End where to watch */

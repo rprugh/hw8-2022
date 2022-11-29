@@ -1,0 +1,45 @@
+@media screen and (min-width: 650px) {
+
+    .container {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    header {
+        position: sticky;
+        grid-template-columns: 2fr 5fr;
+        justify-items: stretch;
+    }
+    
+    nav {
+        display: grid;
+    }
+
+    #intro {
+        padding: 50px;
+    }
+
+    .rating {
+        max-width: 250px;
+    }
+}
+
+@media screen and (min-width: 850px) {
+    .container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    nav {
+        display: flex;
+        grid-template-columns: 2fr 5fr;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+
+    #intro {
+        padding: 100px;
+    }
+
+    .rating {
+        max-width: 300px;
+    }
+}
