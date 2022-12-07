@@ -14,9 +14,9 @@
         display: grid;
     }
 
-    #intro {
+    /* #intro {
         padding: 50px;
-    }
+    } */
 
     .rating {
         max-width: 250px;
@@ -30,7 +30,7 @@
 
     nav {
         display: flex;
-        grid-template-columns: 2fr 5fr;
+        /* grid-template-columns: 2fr 5fr; */
         flex-direction: row;
         justify-content: flex-end;
     }
@@ -43,3 +43,15 @@
         max-width: 300px;
     }
 }
+
+/* Prefers Reduced Motion */
+
+@media (prefers-reduced-motion) {
+
+    a.skip {
+        -webkit-transition: none;
+        transition: none;
+    }
+}
+
+/* End Prefers Reduced Motion */
