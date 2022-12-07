@@ -40,7 +40,6 @@ function makeToolTips() {
     // TODO: Implement this function
     d3.json('js/data.json')
     .then(function(data) {
-        console.log(data);
         for (key in data) {
             tippy('#' + key, {
                 content: '<b>' + data[key].title + '</b> <br>' +
@@ -53,6 +52,8 @@ function makeToolTips() {
                 appendTo: document.body,
             });
         }
+        d3.selectAll('path').attr('aria-expanded', null);
+        d3.selectAll('g').attr('aria-expanded', null);
     });
 }
 
@@ -68,5 +69,4 @@ function setMap() {
 
 }
 
-console.log("hello");
 document.addEventListener("DOMContentLoaded", setMap);
